@@ -160,4 +160,4 @@ python main.py
   * Personal notes
   * Knowledge bases
 * Only requirement:
-  👉 You must define how text is extracted into `page_content`
+  You must define how text is extracted into `page_content`
